@@ -5,7 +5,7 @@ import 'p17.dart';
 
 void main(List<String> arguments) {
   pattern16(11);
-  print("\n");
+  print("\n\n");
   pattern17(10);
 }
 
